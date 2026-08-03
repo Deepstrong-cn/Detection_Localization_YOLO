@@ -1,0 +1,10 @@
+# DATA/yolov8.yaml
+# DL-YOLO Dataset Configuration
+
+path: ./DATA
+train: dataset/train.txt
+val: dataset/val.txt
+test: dataset/test.txt
+
+nc: 2
+names: ['flame', 'smoke']
