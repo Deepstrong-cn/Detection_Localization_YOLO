@@ -8,6 +8,9 @@ This script demonstrates monocular geometric localization for flame sources usin
 
 The script calculates the 3D spatial coordinates (longitudinal and lateral distances) of a flame source from its pixel coordinates in an image. The calculation uses:
 
+![Uploading Fig. 7. Schematic diagram and process of tunnel .png…]()
+
+
 - **Camera intrinsic parameters** (focal length, principal point)
 - **Camera extrinsic parameters** (installation height, pitch angle, yaw angle)
 
@@ -16,6 +19,7 @@ The script calculates the 3D spatial coordinates (longitudinal and lateral dista
 ## Formula Reference
 
 The localization follows the geometric model described in the paper (Section 3.2.2). For flame sources on the tunnel road surface:
+
 **Step 1: Compute intermediate distance along optical axis**
 
 $$d_y = \frac{h}{\tan(\alpha \pm \beta)}$$
