@@ -8,7 +8,6 @@
 
 DL-YOLO is an enhanced YOLOv8n framework for fire detection and monocular geometric localization in tunnels, featuring SPD-Conv, GAM, P2 head, and Ghost modules.
 <img width="3816" height="1928" alt="Fig  1  Overall workflow of the proposed DL-YOLO framework" src="https://github.com/user-attachments/assets/8e946b65-2f2f-485d-a5fb-6c1dbe3826bd" />
-![Uploading Fig. 1. Overall workflow of the proposed DL-YOLO framework.png…]()
 
 ---
 
