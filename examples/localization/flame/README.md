@@ -7,8 +7,7 @@ This script demonstrates monocular geometric localization for flame sources usin
 ## Overview
 
 The script calculates the 3D spatial coordinates (longitudinal and lateral distances) of a flame source from its pixel coordinates in an image. The calculation uses:
-
-![Uploading Fig. 7. Schematic diagram and process of tunnel .png…]()
+<img width="2636" height="904" alt="Fig  7  Schematic diagram and process of tunnel " src="https://github.com/user-attachments/assets/2676b91e-37ca-4afd-b052-25fbb9dd685a" />
 
 
 - **Camera intrinsic parameters** (focal length, principal point)
