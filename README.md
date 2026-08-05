@@ -58,7 +58,6 @@ Detection_Localization_YOLO/
 │
 ├── train.py                          # Training script
 ├── predict.py                        # Inference script
-├── localize.py                       # Localization script
 ├── requirements.txt                  # Python dependencies
 ├── README.md                         # This file
 ├── LICENSE                           # AGPL-3.0
