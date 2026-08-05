@@ -16,7 +16,6 @@ The script calculates the 3D spatial coordinates (longitudinal and lateral dista
 ## Formula Reference
 
 The localization follows the geometric model described in the paper (Section 3.2.2). For flame sources on the tunnel road surface:
-![Schematic diagram and process of tunnel.png](Schematic%20diagram%20and%20process%20of%20tunnel.png)
 **Step 1: Compute intermediate distance along optical axis**
 
 $$d_y = \frac{h}{\tan(\alpha \pm \beta)}$$
