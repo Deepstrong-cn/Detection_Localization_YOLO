@@ -110,4 +110,5 @@ Detection_Localization_YOLO/
 
 AGPL-3.0 License. This project builds upon [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) (AGPL-3.0).
 
-Note: 1. The full detection dataset is not included due to institutional restrictions. 2. During revision, the ground truth measurements for flame localization (Section 4.4.2) were found to be inaccurate, which we have clarified in our response to the reviewers. To further validate our method, we conducted extended experiments with 16 test points (A–P) covering 27–100 m and 0–6.6 m lateral offset (Section 4.4.4).
+## Note: 
+1. The full detection dataset is not included due to institutional restrictions. 2. During revision, the ground truth measurements for flame localization (Section 4.4.2) were found to be inaccurate, which we have clarified in our response to the reviewers. To further validate our method, we conducted extended experiments with 16 test points (A–P) covering 27–100 m and 0–6.6 m lateral offset (Section 4.4.4).
