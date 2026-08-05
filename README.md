@@ -27,9 +27,6 @@ python train.py
 ```bash
 python predict.py
 ```
-### Localization
-The localize.py script performs both flame and smoke localization using camera geometry.
-Before using localize.py, you must fill in your own camera parameters in the script:
 
 ### Example Usage
 For users who want to verify the localization method, we provide complete examples with pre-configured camera parameters. These examples include all necessary camera calibration files and sample images to reproduce the results reported in the paper.
