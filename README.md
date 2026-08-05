@@ -31,13 +31,14 @@ python predict.py
 ### Example Usage
 For users who want to verify the localization method, we provide complete examples with pre-configured camera parameters. These examples include all necessary camera calibration files and sample images to reproduce the results reported in the paper.
 
-# Flame localization
+### Flame localization
 cd examples/localization/flame
 python calculate_flame_position.py
 
-# Smoke front localization
-cd examples/localization/smoke
+### Smoke front localization
+cd examples/localization/flame
 python calculate_smoke_front_position.py
+
 ---
 
 ## 📊 Performance
