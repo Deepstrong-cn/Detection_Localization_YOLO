@@ -20,6 +20,7 @@ The script performs the following steps:
 ## Test Point Example
 
 The following example corresponds to **Test Point C and F** from the smoke front localization experiment:
+
 ![NVR_ch2_main_20250322233000_20250323000000.dav_20250403_125226.992.jpg](NVR_ch2_main_20250322233000_20250323000000.dav_20250403_125226.992.jpg)
 ![smoke_localization_result_C.jpg](smoke_localization_result_C.jpg)
 ---
